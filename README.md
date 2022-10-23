@@ -3,8 +3,8 @@ Project -  Credit Card Fraud Detection ( Logistic Regression )
 
 dataset is highly imbalanced,
 
-# 0 means - normal transaction         - 
-# 1 means - fraudulant transaction
+ - 0 means - normal transaction         - 
+ - 1 means - fraudulant transaction
 0    284315
 1       492
 
